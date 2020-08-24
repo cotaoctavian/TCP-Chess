@@ -12,7 +12,7 @@ To be able to play it you have to own Linux as an operating system.
 # How to run:
   - firstly, you need to start the server: **./name1**
   - secondly, connect 2 clients to the server using the command: **./name2 127.0.0.1 2728** 
-   > you can connect more than 2 clients to the server, if the number of clients is an odd number they will be grouped up in pairs, having their own game.
+   > you can connect more than 2 clients to the server, if the number of clients is an even number they will be grouped up in pairs, having their own game.
    
    > if a client does not have another client as a rival then it will be put on hold.
    
